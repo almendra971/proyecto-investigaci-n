@@ -1,0 +1,65 @@
+{
+  "hotbar": [
+    {
+      "nombre": "Pico",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Combustible",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Calcita",
+      "cantidad": 5
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "inventario": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}
